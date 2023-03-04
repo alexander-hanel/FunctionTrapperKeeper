@@ -1,7 +1,7 @@
 # FunctionTrapperKeeper
 
 Function Trapper Keeper is an IDA plugin for writing and storing notes related to functions in IDBs. Text is entered in
-the Editor windows and displayed in the Preview window. 
+the Editor window and displayed in the Preview window. 
  
 ## Features  
  Function Trapper Keeper has the following features:
